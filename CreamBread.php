@@ -34,7 +34,7 @@ class CreamBread extends Hero
      * @return string
      */
     public function getIntro()
-    {！！
+    {
 	    return 'パンダじゃないやい！';
     }
 }
