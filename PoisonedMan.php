@@ -35,8 +35,7 @@ class PoisonedMan extends Heel
      */
     public function getCatcall()
     {
-	    return '';
-
+        return '戦いが終わったら、ぐっすり眠れるって保証はあるんですか！';
     }
 }
 ?>
