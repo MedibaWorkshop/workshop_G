@@ -25,7 +25,7 @@ class CreamBread extends Hero
 {
 
     protected $name='クリームパンダ';
-    protected $finish_echo='グーチョキパンチのグー';
+    protected $finish_echo='';
               
     /**
      * 紹介文
@@ -34,7 +34,7 @@ class CreamBread extends Hero
      * @return string
      */
     public function getIntro()
-    {
+    {！！
 	    return 'パンダじゃないやい！';
     }
 }
