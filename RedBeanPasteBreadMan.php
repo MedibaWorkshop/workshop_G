@@ -11,7 +11,7 @@
  * @license   http://www.php.net/license/3_0.txt  PHP License 3.0
  * @link      http://homepage3.nifty.com/renoiv/php/phpcs/execute.html
  */
- 
+
 /**
  * アンパンマン
  *
@@ -26,7 +26,7 @@ class RedBeanPasteBreadMan extends Hero
 
     protected $name='アンパンマン';
     protected $finish_echo='空裂眼刺驚';
-              
+
     /**
      * 紹介文
      *
@@ -35,7 +35,7 @@ class RedBeanPasteBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '元気100倍!!';
+        return '元気100倍あーーーーーーーーーーーーーーーーーーーーーーんんぱんんち!!';
     }
 }
 ?>
