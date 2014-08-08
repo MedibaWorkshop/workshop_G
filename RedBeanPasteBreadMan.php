@@ -24,6 +24,7 @@
 class RedBeanPasteBreadMan extends Hero
 {
 
+
     protected $name='アンパンマン(つぶあん)';
     protected $finish_echo='新しい顔よ！';
 
@@ -35,7 +36,7 @@ class RedBeanPasteBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '元気10000倍!!';
+        return '元気100倍あーーーーーーーーーーーーーーーーーーーーーーんんぱんんち!!';
     }
 }
 ?>
