@@ -25,7 +25,7 @@ class CurryBreadMan extends Hero
 {
 
     protected $name='カレーパンマン';
-    protected $finish_echo='';
+    protected $finish_echo='カレービュー!';
               
     /**
      * 紹介文
