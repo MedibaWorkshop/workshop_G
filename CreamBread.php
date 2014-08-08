@@ -11,7 +11,7 @@
  * @license   http://www.php.net/license/3_0.txt  PHP License 3.0
  * @link      http://homepage3.nifty.com/renoiv/php/phpcs/execute.html
  */
- 
+
 /**
  * クリームパンダ
  *
@@ -21,12 +21,12 @@
  * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
  * @link     http://anpanman.jp/index.html
  */
-class CreamBread extends Hero 
+class CreamBread extends Hero
 {
 
     protected $name='クリームパンダ';
     protected $finish_echo='';
-              
+
     /**
      * 紹介文
      *
@@ -35,7 +35,7 @@ class CreamBread extends Hero
      */
     public function getIntro()
     {
-	    return 'パンダじゃないやい！';
+	    return '白黒のパンダじゃないけどホントにパンダ';
     }
 }
 ?>
