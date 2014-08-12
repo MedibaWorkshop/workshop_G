@@ -11,7 +11,7 @@
  * @license   http://www.php.net/license/3_0.txt  PHP License 3.0
  * @link      http://homepage3.nifty.com/renoiv/php/phpcs/execute.html
  */
- 
+
 /**
  * バイキンマン
  *
@@ -26,16 +26,16 @@ class PoisonedMan extends Heel
 
     protected $name="バイキンマン";
     protected $finish_echo='ばいばいきーん！';
-              
+
     /**
-     * 茶々台詞を取得  
+     * 茶々台詞を取得
      *
      * @access public
      * @return string
      */
     public function getCatcall()
     {
-        return '戦いが終わったら、ぐっすり眠れるって保証はあるんですか！';
+        return 'ガキんちょがッ';
     }
 }
 ?>
