@@ -35,7 +35,7 @@ class RedBeanPasteBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '元気10000倍!!';
+        return '元気10000倍!!だけど友達は愛と勇気だけ!!';
     }
 }
 ?>
