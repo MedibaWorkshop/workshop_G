@@ -11,7 +11,7 @@
  * @license   http://www.php.net/license/3_0.txt  PHP License 3.0
  * @link      http://homepage3.nifty.com/renoiv/php/phpcs/execute.html
  */
- 
+
 /**
  * カレーパンマン
  *
@@ -26,7 +26,7 @@ class CurryBreadMan extends Hero
 
     protected $name='カレーパンマン';
     protected $finish_echo='カレービュー!';
-              
+
     /**
      * 紹介文
      *
@@ -35,7 +35,7 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
-        return 'カレーパンどすえ';
+        return '中身はキーマカレーだよ';
 
     }
 }
