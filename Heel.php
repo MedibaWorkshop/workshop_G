@@ -13,7 +13,7 @@
  */
  
 /**
- * クリームパンダ
+ * 必殺技
  *
  * @category Bread
  * @package  CreamBread
