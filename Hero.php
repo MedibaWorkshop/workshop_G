@@ -13,7 +13,7 @@
  */
  
 /**
- * クリームパンダ
+ * ヒーロー
  *
  * @category Bread
  * @package  CreamBread
