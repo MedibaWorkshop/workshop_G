@@ -35,7 +35,7 @@ class CreamBread extends Hero
      */
     public function getIntro()
     {
-	    return '白黒のパンダじゃないけどホントにパンダ';
+	    return '熊のプーさんに似たパンダです';
     }
 }
 ?>
