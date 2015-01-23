@@ -6,7 +6,7 @@
  *
  * @category  Example
  * @package   Example
- * @author    Mr.Jam <mrjam@anpanman.jp>
+ * @author    oiso@mediba.jp
  * @copyright 1997-2006 The PHP Group
  * @license   http://www.php.net/license/3_0.txt  PHP License 3.0
  * @link      http://homepage3.nifty.com/renoiv/php/phpcs/execute.html
