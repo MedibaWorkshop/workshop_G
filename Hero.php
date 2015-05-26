@@ -42,7 +42,7 @@ abstract class Hero
      */
     public function hello()
     {
-	echo $this->getName()."「".$this->getIntro().$this->getName()."!!!」\n\n";
+	echo $this->getName()."「".$this->getIntro().$this->getName()."!!!????????????!!!!!!!!!」\n\n";
     }
 
     /**
